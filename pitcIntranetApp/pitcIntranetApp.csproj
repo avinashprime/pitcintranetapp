@@ -69,9 +69,13 @@
   <ItemGroup>
     <Content Include="CSS\Login.css" />
     <Content Include="CSS\Register.css" />
+    <Content Include="CSS\signupAccount.css" />
+    <Content Include="CSS\viewAssociates.css" />
     <Content Include="Images\PITC_NEW_Logo_Website.jpg" />
     <Content Include="Login.aspx" />
     <Content Include="Register.aspx" />
+    <Content Include="signupAccount.aspx" />
+    <Content Include="viewAssociates.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -89,6 +93,20 @@
     </Compile>
     <Compile Include="Register.aspx.designer.cs">
       <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="signupAccount.aspx.cs">
+      <DependentUpon>signupAccount.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="signupAccount.aspx.designer.cs">
+      <DependentUpon>signupAccount.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="viewAssociates.aspx.cs">
+      <DependentUpon>viewAssociates.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="viewAssociates.aspx.designer.cs">
+      <DependentUpon>viewAssociates.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
