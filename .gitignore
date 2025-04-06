@@ -3,7 +3,7 @@
 ################################################################################
 
 
-/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
-/.vs/pitcintranetappgithub/v17
+/packages/
+/.vs/
 /pitcIntranetApp/bin
-/pitcIntranetApp/obj/Debug
+/pitcIntranetApp/obj/
