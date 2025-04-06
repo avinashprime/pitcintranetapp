@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+/.vs/pitcintranetappgithub/v17
+/pitcIntranetApp/bin
+/pitcIntranetApp/obj/Debug
